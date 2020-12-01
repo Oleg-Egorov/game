@@ -34,7 +34,7 @@
 
 1. Установить composer, если он не установлен;
 2. Перейти в каталог, в который вы будете клонировать проект;
-3. Выполнить команду `composer require`;
+3. Выполнить команду `composer require egorov_oa/guess-number:dev-master@dev`;
 4. Перейти в каталог vendor/bin;
 5. Запустить файл guess-number.bat.
 
@@ -42,4 +42,4 @@
 
 ## Ссылки
 
-Packagist: <>
+Packagist: <https://packagist.org/packages/egorov_oa/guess-number>
